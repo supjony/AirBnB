@@ -4,7 +4,7 @@
 
 `<insert database schema design here>`
 
-## API Documentation
+## API Documentatio
 
 ## USER AUTHENTICATION/AUTHORIZATION
 
